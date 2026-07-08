@@ -149,19 +149,19 @@ npx playwright show-report
 
 ## Login Page
 
-![Login Page](docs/Task_01_Login/LoginPage.png)
+![Login Page](LoginPage.png)
 
 ---
 
 ## ✅ Successful Login
 
-![Successful Login](docs/Task_01_Login/HomePage.png)
+![Successful Login](HomePage.png)
 
 ---
 
 ## 📊 Playwright HTML Report
 
-![Playwright Report](docs/Task_01_Login/Playwright_Report.png)
+![Playwright Report](Playwright_Report.png)
 
 # 🌿 Git Workflow
 
