@@ -139,7 +139,7 @@ npx playwright show-report
 
 ## 📊 Playwright HTML Report
 
-![Playwright Report](Playwright_Report.png)
+![Playwright Report](Plarwright_Report.png)
 
 ---
 
