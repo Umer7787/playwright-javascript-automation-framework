@@ -9,4 +9,5 @@
 | ✅ Task-03 | Completed | [View](docs/Task_03_Verify_Page_Title/README.md) |
 | ✅ Task-04 | Completed | [View](docs/Task_04_Checkbox_Validation/README.md) |
 | ✅ Task-05 | Completed | [View](docs/Task_05_Radio_Button/README.md) |
-| ⏳ Task-06 | In Progress | Coming Soon |
+| ✅ Task-06 | Completed | [View](docs/Task_06_Text_Box/README.md) |
+| ⏳ Task-07 | In Progress | Coming Soon |
