@@ -11,4 +11,5 @@
 | ✅ Task-05 | Completed | [View](docs/Task_05_Radio_Button/README.md) |
 | ✅ Task-06 | Completed | [View](docs/Task_06_Text_Box/README.md) |
 | ✅ Task-07 | Completed | [View](docs/Task_07_Dropdown_Selection/README.md) |
-| ⏳ Task-08 | In Progress | Coming Soon |
+| ✅ Task-08 | Completed | [View](docs/Task_08_Button_Actions/README.md) |
+| ⏳ Task-09 | In Progress | Coming Soon |
