@@ -12,4 +12,5 @@
 | ✅ Task-06 | Completed | [View](docs/Task_06_Text_Box/README.md) |
 | ✅ Task-07 | Completed | [View](docs/Task_07_Dropdown_Selection/README.md) |
 | ✅ Task-08 | Completed | [View](docs/Task_08_Button_Actions/README.md) |
-| ⏳ Task-09 | In Progress | Coming Soon |
+| ✅ Task-09 | Completed | [View](docs/Task_09_Dynamic_Content/README.md) |
+| ⏳ Task-10 | In Progress | Coming Soon |
