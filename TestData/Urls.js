@@ -4,6 +4,8 @@ exports.URLS = {
 
     demoQATextBox: 'https://demoqa.com/text-box',
 
-    dropdown: 'https://the-internet.herokuapp.com/dropdown'
+    dropdown: 'https://the-internet.herokuapp.com/dropdown',
+
+    buttons: 'https://demoqa.com/buttons'
 
 }
