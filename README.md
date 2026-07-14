@@ -15,4 +15,5 @@
 | ✅ Task-09 | Completed | [View](docs/Task_09_Dynamic_Content/README.md) |
 | ✅ Task-10 | Completed | [View](docs/Task_10_Verify_Image/README.md) |
 | ✅ Task-11 | Completed | [View](docs/Task_11_Handle_JavaScript_Alert/README.md) |
-| ⏳ Task-12 | In Progress | Coming Soon |
+| ✅ Task-12 | Completed | [View](docs/Task_12_Handle_Confirmation_Alert/README.md) |
+| ⏳ Task-13 | In Progress | Coming Soon |
