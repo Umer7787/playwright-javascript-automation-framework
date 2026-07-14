@@ -8,6 +8,8 @@ exports.URLS = {
 
     buttons: 'https://demoqa.com/buttons',
 
-    dynamicContent: 'https://the-internet.herokuapp.com/dynamic_content'
+    dynamicContent: 'https://the-internet.herokuapp.com/dynamic_content',
+
+    automationExercise: 'https://automationexercise.com/'
 
 }
