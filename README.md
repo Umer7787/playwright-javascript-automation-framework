@@ -14,4 +14,5 @@
 | ✅ Task-08 | Completed | [View](docs/Task_08_Button_Actions/README.md) |
 | ✅ Task-09 | Completed | [View](docs/Task_09_Dynamic_Content/README.md) |
 | ✅ Task-10 | Completed | [View](docs/Task_10_Verify_Image/README.md) |
-| ⏳ Task-11 | In Progress | Coming Soon |
+| ✅ Task-11 | Completed | [View](docs/Task_11_Handle_JavaScript_Alert/README.md) |
+| ⏳ Task-12 | In Progress | Coming Soon |
