@@ -10,6 +10,9 @@ exports.URLS = {
 
     dynamicContent: 'https://the-internet.herokuapp.com/dynamic_content',
 
-    automationExercise: 'https://automationexercise.com/'
+    automationExercise: 'https://automationexercise.com/',
+
+    javascriptAlerts: 'https://the-internet.herokuapp.com/javascript_alerts'
+
 
 }
