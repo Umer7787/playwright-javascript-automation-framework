@@ -111,19 +111,19 @@ npx playwright install
 Run the test
 
 ```bash
-npx playwright test tests/Task_10_Image_Visibility/HomePage.spec.js
+npx playwright test tests/Task_11_Handle_Alert/HomePage.spec.js
 ```
 
 Run in headed mode
 
 ```bash
-npx playwright test tests/Task_10_Image_Visibility/HomePage.spec.js --headed
+npx playwright test tests/Task_11_Handle_Alert/HomePage.spec.js --headed
 ```
 
 Run in debug mode
 
 ```bash
-npx playwright test tests/Task_10_Image_Visibility/HomePage.spec.js --debug
+npx playwright test tests/Task_11_Handle_Alert/HomePage.spec.js --debug
 ```
 
 ---
