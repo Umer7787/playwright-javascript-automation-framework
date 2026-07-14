@@ -1,20 +1,20 @@
-# 🚨 Task 11 - Handle JavaScript Alert
+# 🚀 Task 12 - Handle Confirmation Alert
 
-> A comprehensive Playwright automation task built with JavaScript, covering the **Verify Image Visibility** functionality using industry-standard automation practices.
+> A comprehensive Playwright automation task built with JavaScript, covering the **Handle Confirmation Alert** functionality using industry-standard automation practices.
 
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-green?logo=playwright)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-green?logo=node.js)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
-![Progress](https://img.shields.io/badge/Task-10-blue)
+![Progress](https://img.shields.io/badge/Task-12-blue)
 
 ---
 
 # 📌 Project Overview
 
-This repository contains the **Handle JavaScript Alert** Playwright automation task developed using **JavaScript**.
+This repository contains the **Handle Confirmation Alert** Playwright automation task developed using **JavaScript**.
 
-Automate the JavaScript Alert page and verify that a standard JavaScript Alert can be handled successfully.
+The goal of this task is to validate the JavaScript Confirmation Alert by accepting the alert and verifying that the correct success message is displayed while following industry-standard automation framework practices and Git workflows.
 
 ---
 
@@ -50,10 +50,10 @@ playwright-javascript-automation-framework/
 # 📖 Topics Covered
 
 - UI Automation
+- JavaScript Alerts
+- Confirmation Alert Handling
 - Assertions
-- Locators
-- AlertButton Click & Verify
-- Element Validation
+- Playwright Dialog API
 - Page Object Model (POM)
 
 ---
@@ -73,6 +73,7 @@ playwright-javascript-automation-framework/
 | Task 09 | Dynamic Content Validation | ✅ Completed |
 | Task 10 | Verify Image Visibility    | ✅ Completed |
 | Task 11 | Handle JavaScript Alert    | ✅ Completed |
+| Task 12 | Handle Confirmation Alert  | ✅ Completed |
 | ...     | ...                        | ...          |
 | Task 50 | CI/CD Integration          | ⏳ Pending   |
 
@@ -111,19 +112,19 @@ npx playwright install
 Run the test
 
 ```bash
-npx playwright test tests/Task_11_Handle_Alert/HomePage.spec.js
+npx playwright test tests/Task_12_Handle_Confirmation_Alert/HandleConfirmationAlert.spec.js
 ```
 
 Run in headed mode
 
 ```bash
-npx playwright test tests/Task_11_Handle_Alert/HomePage.spec.js --headed
+npx playwright test tests/Task_12_Handle_Confirmation_Alert/HandleConfirmationAlert.spec.js --headed
 ```
 
 Run in debug mode
 
 ```bash
-npx playwright test tests/Task_11_Handle_Alert/HomePage.spec.js --debug
+npx playwright test tests/Task_12_Handle_Confirmation_Alert/HandleConfirmationAlert.spec.js --debug
 ```
 
 ---
@@ -144,9 +145,11 @@ npx playwright show-report
 
 ---
 
-### JavaScript Alert
+# 📸 Execution Evidence
 
-![JavaScript Alert](jsAlert.png)
+## JavaScript Confirmation Alert
+
+![JavaScript Confirmation Alert](jsConfirm.png)
 
 ---
 
@@ -174,7 +177,8 @@ main
 ├── feature/task-08-button-actions
 ├── feature/task-09-dynamic-content
 ├── feature/task-10-image-visibility
-├── feature/task-11-jsAlert-Hanlde
+├── feature/task-11-jsAlert-handle
+├── feature/task-12-confirmation-alert
 └── ...
 ```
 
@@ -185,6 +189,7 @@ After review, each feature branch is merged into the `main` branch.
 # 🎯 Learning Goals
 
 - Master Playwright with JavaScript
+- Learn JavaScript Alert Handling
 - Build an industry-standard automation framework
 - Learn Git and GitHub workflow
 - Improve automation testing skills
